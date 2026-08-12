@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Web - واتساب ويب",
+  "description": "تطبيق واتساب ويب كامل ومفاعل بأحدث الميزات: المحادثات، التسجيل الصوتي، المكالمات، الحالات، والمساعد الذكي Gemini AI",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
